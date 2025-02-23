@@ -1,4 +1,4 @@
-# Linear Regression Model
+# AI Linear Regression Model - Assignment 2
 The goal of this assignment is to create a simple AI model for linear regression using the Rust programming
 language and the burn library. The model should predict the output of the function y = 2x + 1 using
 synthetic data for training. The programming language used to create the AI Model for linear regression is Python and this mini project is for exploring how to use Rust Rover IDE, integrate it to GitHub to push, commit, write code, continuously update it and execute/debug it.
