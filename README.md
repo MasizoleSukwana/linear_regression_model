@@ -6,14 +6,14 @@ synthetic data for training. The programming language used to create the AI Mode
 
 To ensure a proper set up, the following is required.
 To run the project, the user needs to have a GitHub account, which can be created on the URL: https://github.com/
-User needs to have access to the Repository/Project URL: 
+User needs to have access to the Repository/Project URL: https://github.com/MasizoleSukwana/linear_regression_model.git
 After opening the Repo/Project URL, click the green "Code" button, open the dropdown arrow, and select CodeSpaces
 Click the Add/Create codespaces icon for an environment to be created in the cloud
 The CodeSpaces dev environment is prepared/set-up so that the user can run/execute the project
 After the environment is prepared/set-up, on the Terminal tab, after this path: @MasizoleSukwana ➜ /workspaces/Masizole-Sukwana (main) $, user must type the code line then press Enter: Do this for all the code lines
 git pull
-git remote add origin 
-git add linear_regression.py
+git remote add origin https://github.com/MasizoleSukwana/linear_regression_model.git
+git add linear_regression_model.py
 git commit -m "Added linear regression model"
 git branch -M main
 git push -u origin main
